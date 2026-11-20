@@ -3,6 +3,7 @@
 Adds edit buttons to the items in the file list which let you edit the G-code of any file that's not currently printing.
 
 UPDATE by SeBa-Printer:
+
 with Octoprint 2.0 the Filename is not read and Put in den Save-Name Window!
 Changed Line 242, so this works again.
 

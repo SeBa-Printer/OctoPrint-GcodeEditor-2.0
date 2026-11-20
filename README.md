@@ -2,13 +2,17 @@
 
 Adds edit buttons to the items in the file list which let you edit the G-code of any file that's not currently printing.
 
+UPDATE ny SeBa-Printer:
+with Octoprint 2.0 the Filename is not read and Put in den Save-Name Window!
+Changed Line 242, so this works again.
+
+There a some further Bugs in the Code. But this part works again!
+UPDATE END:
+
 ## Setup
 
-Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
-or manually using this URL:
-
-    https://github.com/ieatacid/OctoPrint-GcodeEditor/archive/master.zip
-
+Install via this URL:
+ https://github.com/SeBa-Printer/OctoPrint-GcodeEditor-2.0/archive/refs/heads/master.zip
 
 ## Screenshots
 Adds edit button

@@ -1,7 +1,7 @@
 /*
  * View model for OctoPrint-GcodeEditor
  *
- * Author: ieatacid
+ * Author: ieatacid  -> Minor changes by SeBa-Printer
  * License: AGPLv3
  */
 $(function() {

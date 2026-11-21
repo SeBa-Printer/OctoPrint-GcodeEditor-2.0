@@ -11,7 +11,7 @@ date: 2017-10-28
 
 homepage: https://github.com/ieatacid/OctoPrint-GcodeEditor
 source: https://github.com/ieatacid/OctoPrint-GcodeEditor
-archive: https://github.com/ieatacid/OctoPrint-GcodeEditor/archive/master.zip
+archive: https://github.com/SeBa-Printer/OctoPrint-GcodeEditor-2.0/archive/refs/heads/master.zip
 
 tags:
 - gcode
@@ -29,7 +29,7 @@ featuredimage: /assets/img/plugins/GcodeEditor/edit_gcode.png
 compatibility:
 
   octoprint:
-  - 1.2.0
+  - 2.0
 
   os:
   - linux

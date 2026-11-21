@@ -9,8 +9,8 @@ license: AGPLv3
 
 date: 2017-10-28
 
-homepage: [https://github.com/ieatacid/OctoPrint-GcodeEditor]
-source: (https://github.com/ieatacid/OctoPrint-GcodeEditor)
+homepage: [https://github.com/SeBa-Printer/OctoPrint-GcodeEditor-2.0](https://github.com/SeBa-Printer/OctoPrint-GcodeEditor-2.0)
+source: [https://github.com/SeBa-Printer/OctoPrint-GcodeEditor-2.0](https://github.com/SeBa-Printer/OctoPrint-GcodeEditor-2.0)
 archive: [https://github.com/SeBa-Printer/OctoPrint-GcodeEditor-2.0/archive/refs/heads/master.zip](https://github.com/SeBa-Printer/OctoPrint-GcodeEditor-2.0/archive/refs/heads/master.zip)
 
 tags:
